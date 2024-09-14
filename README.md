@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ashish<br>🎓 2nd Year BTech Student<br>💻 Learning Coding & Full Stack Development<br>🚀 Passionate about building apps and exploring new technologies<br>🌱 Currently working on web development projects with Next.js, Node.js, and more<br>📚 Always learning and growing as a developer<br><br>Feel free to connect or check out my projects!
+👋 Hi, I'm Ashish<br>🎓 2nd Year BTech Student<br>💻 Learning Full Stack Development and Web3 from @hkirat<br>🚀 Passionate about building apps and exploring new technologies<br>🌱 Currently working on web development projects with Next.js, Node.js, and more<br>📚 Always learning and growing as a developer<br><br>Feel free to connect or check out my projects!
 
 
 ## 🌐 Socials:
